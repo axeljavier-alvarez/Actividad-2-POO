@@ -9,7 +9,6 @@ class Persona{
 	protected : string nombres, apellidos, direccion, fecha_nacimiento;
 	int telefono;
 	
-	
 	// constructor con el nombre de la clase
 	Persona(){
 		
