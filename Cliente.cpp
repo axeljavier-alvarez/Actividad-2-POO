@@ -31,7 +31,7 @@ class Cliente : Persona {
 	 string getNombres(){return nombres;}
 	 string getApellidos(){return apellidos;}
 	 string getDireccion(){return direccion;}
-	 int gerTelefono(){return telefono;}
+	 int getTelefono(){return telefono;}
 	 string getFecha_Nacimiento(){return fecha_nacimiento;}
 	 
 	// metodos
